@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Katus Ranch, Angus Seedstock">
-
-<rect width="512" height="512" rx="112" fill="#F4F5F7"/>
-  <rect x="16" y="16" width="480" height="480" rx="98" fill="none" stroke="#1A3EAF" stroke-width="22"/>
-  <g transform="translate(31.0,34.4) scale(2.25)"><g fill="#0B0B0D">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-label="Katus Ranch, Angus Seedstock">
+<rect width="300" height="300" fill="#0B0B0D"/>
+<g>
+    <circle cx="150" cy="150" r="146" fill="#1A3EAF"/>
+    <circle cx="150" cy="150" r="129.2" fill="#0B0B0D"/>
+    <circle cx="150" cy="150" r="116.8" fill="none" stroke="#122C7C"
+      stroke-width="2.63"/>
+    <g transform="translate(21.52,21.52) scale(1.2848)">
+      <g fill="#FFFFFF">
       <path d="M141 74 C 157 71 170 79 177 95 C 168 105 152 104 143 97 Z"/>
       <path d="M59 74 C 43 71 30 79 23 95 C 32 105 48 104 57 97 Z"/>
       <path d="M100 36 C 123 36 141 46 147 63 C 151 78 150 92 146 104 C 143 114 138 121 133 127
@@ -14,5 +18,5 @@
       <path d="M131 92 C 124 86 113 87 109 94 C 116 99 127 99 131 92 Z"/>
       <ellipse cx="91" cy="137" rx="5" ry="3.2" transform="rotate(-20 91 137)"/>
       <ellipse cx="109" cy="137" rx="5" ry="3.2" transform="rotate(20 109 137)"/>
-    </g></g>
+    </g></g></g>
 </svg>

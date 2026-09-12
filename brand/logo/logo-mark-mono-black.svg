@@ -2,7 +2,7 @@
 
 <circle cx="150" cy="150" r="146" fill="none" stroke="#0B0B0D" stroke-width="16"/>
   <circle cx="150" cy="150" r="117" fill="none" stroke="#0B0B0D" stroke-width="3"/>
-  <g transform="translate(21.52,21.52) scale(1.2848)"><g>
+  <g transform="translate(21.52,21.52) scale(1.2848)">
     <g fill="#0B0B0D">
       <path d="M141 74 C 157 71 170 79 177 95 C 168 105 152 104 143 97 Z"/>
       <path d="M59 74 C 43 71 30 79 23 95 C 32 105 48 104 57 97 Z"/>
@@ -15,5 +15,5 @@
       <path d="M131 92 C 124 86 113 87 109 94 C 116 99 127 99 131 92 Z"/>
       <ellipse cx="91" cy="137" rx="5" ry="3.2" transform="rotate(-20 91 137)"/>
       <ellipse cx="109" cy="137" rx="5" ry="3.2" transform="rotate(20 109 137)"/>
-    </g></g></g>
+    </g></g>
 </svg>
